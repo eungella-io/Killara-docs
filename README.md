@@ -1,3 +1,4 @@
+<p align="center">My method is different. I do not rush into actual work. When I get an idea I start at once building it up in my imagination. I change the construction, make improvements, and operate the device entirely in my mind. ― <a href="https://www.goodreads.com/quotes/7143950-my-method-is-different-i-do-not-rush-into-actual">Nikola Tesla</a> </p>
 # Killara-docs
 
 #### Alternatives applications

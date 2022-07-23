@@ -2,14 +2,27 @@
 
 # Killara-docs
 
+#### Why Killara
+TODO
+
 #### Alternatives applications
 
-| Name                               |
-| :---:                              | 
-| [Typora](https://typora.io/)       |
-| [Write](https://write.as/)         |
-| [Caret](https://caret.io/)         |
-| [Notion](https://www.notion.so/)   |
-| [Mak](https://inns.studio/mak)     | 
-| [Inkdrop](https://www.inkdrop.app/)|
-| [Obsidian](https://obsidian.md/)   |
+| Name                                   |
+| :---:                                  | 
+| [Typora](https://typora.io/)           |
+| [Write](https://write.as/)             |
+| [Caret](https://caret.io/)             |
+| [Notion](https://www.notion.so/)       |
+| [Mak](https://inns.studio/mak)         | 
+| [Inkdrop](https://www.inkdrop.app/)    |
+| [Obsidian](https://obsidian.md/)       |
+| [Supernotes](https://supernotes.app/)  |
+| [Notability](https://notability.com/)  |
+| [Goodnotes](https://www.goodnotes.com/)|
+| [Kapeli](https://kapeli.com/dash)      |
+
+
+
+#### Things we use
+
+https://blockprotocol.org/

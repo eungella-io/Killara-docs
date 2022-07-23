@@ -26,3 +26,12 @@ TODO
 #### Things we use
 
 https://blockprotocol.org/
+
+
+#### Dev
+
+Update `@tauri-apps/cli`
+
+```shell
+yarn add --dev @tauri-apps/cli
+```

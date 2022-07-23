@@ -19,7 +19,7 @@ TODO
 | [Supernotes](https://supernotes.app/)  |
 | [Notability](https://notability.com/)  |
 | [Goodnotes](https://www.goodnotes.com/)|
-| [Kapeli](https://kapeli.com/dash)      |
+| [Dash](https://kapeli.com/dash)      |
 
 
 

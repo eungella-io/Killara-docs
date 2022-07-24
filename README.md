@@ -25,6 +25,8 @@ TODO
 
 #### Things we use
 
+[Mantine](https://mantine.dev/)
+
 https://blockprotocol.org/
 
 

@@ -3,7 +3,7 @@
 # Killara-docs
 
 #### Why Killara
-TODO
+Killara is a destruction-free writing application designed by and for writers.
 
 #### Alternatives applications
 

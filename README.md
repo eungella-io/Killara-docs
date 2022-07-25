@@ -30,7 +30,7 @@ Killara is a destruction-free writing application designed by and for writers.
 | Name                                                   | Description                                   |
 | :---:                                                  | :---:                                         |
 | [React](https://reactjs.org/)                          | Front-end JavaScript library                  |
-| [Tauri](https://mantine.dev/)                          | Framework for building minimal desktop apps   |
+| [Tauri](https://mantine.dev/)                          | Framework for building desktop apps           |
 | [Mantine](https://mantine.dev/)                        | React component library                       |
 | [Iconoir](https://iconoir.com/)                        | Icons library                                 |
 | [TypeScript](https://www.typescriptlang.org/)          | Strongly typed JavaScript                     |

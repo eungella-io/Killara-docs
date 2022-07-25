@@ -25,9 +25,26 @@ TODO
 
 #### Things we use
 
-[Mantine](https://mantine.dev/)
+##### Tech
 
-https://blockprotocol.org/
+| Name                                                   | Description                                   |
+| :---:                                                  | :---:                                         |
+| [React](https://reactjs.org/)                          | Front-end JavaScript library                  |
+| [Tauri](https://mantine.dev/)                          | Framework for building minimal desktop apps   |
+| [Mantine](https://mantine.dev/)                        | React component library                       |
+| [Iconoir](https://iconoir.com/)                        | Icons library                                 |
+| [TypeScript](https://www.typescriptlang.org/)          | Strongly typed JavaScript                     |
+| [Sass](https://sass-lang.com/)                         | CSS pre-processor                             |
+
+
+##### Standard
+
+| Name                                                                             | Description                                      |
+| :---:                                                                            | :---:                                            |
+| [Blockprotocol](https://blockprotocol.org/)                                      | Standard for building block-based interfaces     |
+| [BEM](https://andrew-barnes.medium.com/bem-and-sass-a-perfect-match-5e48d9bc3894)| Standard for naming CSS classes                  |
+
+
 
 
 #### Dev

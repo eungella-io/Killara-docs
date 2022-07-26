@@ -21,8 +21,6 @@ Killara is a distraction-free writing application designed by and for writers.
 | [Goodnotes](https://www.goodnotes.com/)|
 | [Dash](https://kapeli.com/dash)        |
 
-
-
 #### Things we use
 
 ##### Tech
@@ -45,12 +43,9 @@ Killara is a distraction-free writing application designed by and for writers.
 | [BEM](https://andrew-barnes.medium.com/bem-and-sass-a-perfect-match-5e48d9bc3894)| Standard for naming CSS classes                  |
 
 
+#### User stories
 
-
-#### Dev
-
-Update `@tauri-apps/cli`
-
-```shell
-yarn add --dev @tauri-apps/cli
-```
+- As a writer, I want to create/read/update/delete notes, so that I can manage notes.
+- As a writer, I want to create/read/update/delete folders, so that I can organize notes.
+- As a writer, I want to copy/paste images into notes, so that I can update my notes.
+- As a writer, I want to format text, so that I can update my notes. 

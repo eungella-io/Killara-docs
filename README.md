@@ -3,7 +3,7 @@
 # Killara-docs
 
 #### Why Killara
-Killara is a destruction-free writing application designed by and for writers.
+Killara is a distraction-free writing application designed by and for writers.
 
 #### Alternatives applications
 

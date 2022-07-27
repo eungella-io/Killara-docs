@@ -45,7 +45,7 @@ Killara is a distraction-free writing application designed by and for writers.
 
 #### User stories
 
-- As a writer, I want to create/read/update/delete notes, so that I can manage notes.
-- As a writer, I want to create/read/update/delete folders, so that I can organize notes.
+- As a writer, I want to create/read/update/delete notes, so that I can manage my notes.
+- As a writer, I want to create/read/update/delete folders, so that I can organize my notes.
 - As a writer, I want to copy/paste images into notes, so that I can update my notes.
 - As a writer, I want to format text, so that I can update my notes. 

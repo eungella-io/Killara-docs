@@ -20,19 +20,21 @@ Killara is a distraction-free writing application designed by and for writers.
 | [Notability](https://notability.com/)  |
 | [Goodnotes](https://www.goodnotes.com/)|
 | [Dash](https://kapeli.com/dash)        |
+| [Lepton](https://hackjutsu.com/Lepton/)|
 
 #### Things we use
 
 ##### Tech
 
-| Name                                                   | Description                                   |
-| :---:                                                  | :---:                                         |
-| [React](https://reactjs.org/)                          | Front-end JavaScript library                  |
-| [Tauri](https://mantine.dev/)                          | Framework for building desktop apps           |
-| [Mantine](https://mantine.dev/)                        | React component library                       |
-| [Iconoir](https://iconoir.com/)                        | Icons library                                 |
-| [TypeScript](https://www.typescriptlang.org/)          | Strongly typed JavaScript                     |
-| [Sass](https://sass-lang.com/)                         | CSS pre-processor                             |
+| Name                                                          | Description                                   |
+| :---:                                                         | :---:                                         |
+| [React](https://reactjs.org/)                                 | Front-end JavaScript library                  |
+| [Tauri](https://mantine.dev/)                                 | Framework for building desktop apps           |
+| [Mantine](https://mantine.dev/)                               | React component library                       |
+| [Iconoir](https://iconoir.com/)                               | Icons library                                 |
+| [TypeScript](https://www.typescriptlang.org/)                 | Strongly typed JavaScript                     |
+| [Sass](https://sass-lang.com/)                                | CSS pre-processor                             |
+| [Dependabot](https://github.com/dependabot)                   | Automated dependency updates
 
 
 ##### Standard

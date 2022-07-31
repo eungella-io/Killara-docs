@@ -26,16 +26,16 @@ Killara is a distraction-free writing application designed by and for writers.
 
 ##### Tech
 
-| Name                                                          | Description                                   |
-| :---:                                                         | :---:                                         |
-| [React](https://reactjs.org/)                                 | Front-end JavaScript library                  |
-| [Tauri](https://mantine.dev/)                                 | Framework for building desktop apps           |
-| [Mantine](https://mantine.dev/)                               | React component library                       |
-| [Iconoir](https://iconoir.com/)                               | Icons library                                 |
-| [TypeScript](https://www.typescriptlang.org/)                 | Strongly typed JavaScript                     |
-| [Sass](https://sass-lang.com/)                                | CSS pre-processor                             |
-| [Dependabot](https://github.com/dependabot)                   | Automated dependency updates
-
+| Name                                                                                                                                                                  | Description                                   |
+| :---:                                                                                                                                                                 | :---:                                         |
+| [React](https://reactjs.org/)                                                                                                                                         | Front-end JavaScript library                  |
+| [Tauri](https://mantine.dev/)                                                                                                                                         | Framework for building desktop apps           |
+| [Mantine](https://mantine.dev/)                                                                                                                                       | React component library                       |
+| [Iconoir](https://iconoir.com/)                                                                                                                                       | Icons library                                 |
+| [TypeScript](https://www.typescriptlang.org/)                                                                                                                         | Strongly typed JavaScript                     |
+| [Sass](https://sass-lang.com/)                                                                                                                                        | CSS pre-processor                             |
+| [Dependabot](https://github.com/dependabot)                                                                                                                           | Automated dependency updates                  |
+| [CODEOWNERS](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners)                   | Automated code review request                 |
 
 ##### Standard
 

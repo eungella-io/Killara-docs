@@ -43,7 +43,13 @@ Killara is a distraction-free writing application designed by and for writers.
 | :---:                                                                            | :---:                                            |
 | [Blockprotocol](https://blockprotocol.org/)                                      | Standard for building block-based interfaces     |
 | [BEM](https://andrew-barnes.medium.com/bem-and-sass-a-perfect-match-5e48d9bc3894)| Standard for naming CSS classes                  |
+| [Semantic Versioning](https://semver.org/)                                       | Standard for Versioning
 
+#### Versioning
+
+- Major (**X**.y.z) - Incremented for any backwards incompatible public API changes.
+- Minor (x.**Y**.z) - Incremented for new, backwards compatible, public API enhancements/fixes.
+- Patch (x.y.**Z**) - Incremented for small, backwards compatible, bug fixes.
 
 #### User stories
 

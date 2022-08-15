@@ -39,11 +39,12 @@ Killara is a distraction-free writing application designed by and for writers.
 
 ##### Standard
 
-| Name                                                                             | Description                                      |
-| :---:                                                                            | :---:                                            |
-| [Blockprotocol](https://blockprotocol.org/)                                      | Standard for building block-based interfaces     |
-| [BEM](https://andrew-barnes.medium.com/bem-and-sass-a-perfect-match-5e48d9bc3894)| Standard for naming CSS classes                  |
-| [Semantic Versioning](https://semver.org/)                                       | Standard for Versioning
+| Name                                                                                        | Description                                      |
+| :---:                                                                                       | :---:                                            |
+| [Blockprotocol](https://blockprotocol.org/)                                                 | Standard for building block-based interfaces     |
+| [BEM](https://andrew-barnes.medium.com/bem-and-sass-a-perfect-match-5e48d9bc3894)           | Standard for naming CSS classes                  |
+| [Semantic Versioning](https://semver.org/)                                                  | Standard for Versioning                          |
+| [Antifragile Software](https://www.sciencedirect.com/science/article/pii/S1877050916302290) | Antifragile Software Manifesto                   |
 
 #### Versioning
 

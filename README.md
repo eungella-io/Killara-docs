@@ -3,7 +3,8 @@
 # Killara-docs
 
 #### Why Killara
-Killara is a distraction-free writing application designed by and for writers.
+Killara (Aboriginal word for "always there", pronounced like "Kuh laa ruh") is a distraction-free writing application designed by and for writers.
+
 
 #### Alternatives applications
 

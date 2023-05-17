@@ -47,6 +47,7 @@ Killara (Aboriginal word for "always there", pronounced like "Kuh laa ruh") is a
 | [BEM](https://andrew-barnes.medium.com/bem-and-sass-a-perfect-match-5e48d9bc3894)           | Standard for naming CSS classes                  |
 | [Semantic Versioning](https://semver.org/)                                                  | Standard for Versioning                          |
 | [Antifragile Software](https://www.sciencedirect.com/science/article/pii/S1877050916302290) | Antifragile Software Manifesto                   |
+| [Changelog](https://keepachangelog.com/en/1.1.0/)                                           | Notable changes for each version of a project    |
 
 #### Versioning
 
